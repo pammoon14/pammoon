@@ -20,6 +20,6 @@ This project shows state average responses to 29 health measures, categorized in
 PLACES: Local Data for Better Health, [County Data 2022 release](https://chronicdata.cdc.gov/500-Cities-Places/PLACES-Local-Data-for-Better-Health-County-Data-20/swc5-untb)
 
 ## [Results](https://github.com/pammoon14/500-Cities-Project/blob/main/image/project500_dashboard_pm_pdf.pdf)
-![](image/project500_dashboard_pm_pdf.pdf)
+![](500-Cities-Project/image/project500_dashboard_pm_pdf.pdf)
 
 
