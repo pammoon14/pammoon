@@ -13,13 +13,12 @@ I am an aspiring data analyst with a background in healthcare, specifically in c
 
 # Project 1: [Excel Dynamic Dashboard](https://github.com/pammoon14/500-Cities-Project)
 ## Description
-This Excel dynamic dashboard visualizes 2020 local health data from PLACES 500 Cities Project.
-This project shows state average responses to 29 health measures, categorized into four groups: Health Outcomes, Health Risk Behaviors, Prevention, and Health Status.
+This project created an interactive Excel dashboard to visualize and analyze key outcomes of the 2020 local health data from the CDC PLACES 500 Cities Project. This dashboard allows for state and national comparisons of 29 health indicators, including areas in chronic diseases, health risk behaviors, health status, and prevention. 
 
 ### Highlighted Skills
-**Excel:** data visualization, dynamic dashbord, pivot table, pivot charts, xlookup
+**Excel:** data visualization, dashboard design, Pivot Table/Chart, VLOOKUP, XLOOKUP, LARGE
 
-**PowerQuery:** data cleaning, normalizing data, filtering
+**PowerQuery:** data transformation, data cleaning, filtering
 
 
 ## Data Source
