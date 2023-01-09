@@ -1,6 +1,6 @@
 title: <p align="center"> Pathompon Moon. (Pam) </p> # your name (or website title) here
 
-logo: <img src="https://github.com/pammoon14/pammoon14/blob/main/image/picture.png"> 
+logo: "/image/picture.png?raw=true"
 <br><br>
 description: > # your text below (remove <br> elements if you don't need line breaks)
  <h2>About Me 2</h2>
