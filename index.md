@@ -2,11 +2,10 @@
 
 ---
 
-### Category Name 1 
+# Projects
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
+## Project 1: [Excel Dynamic Dashboard](https://github.com/pammoon14/500-Cities-Project)
+![](https://github.com/pammoon14/500-Cities-Project/blob/main/image/Screenshot_500_Cities_Project_Dashboard.png)
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
