@@ -1,14 +1,9 @@
 
-# Hi, I'm Pam Moonthianngam! 👋
+# Hi, I'm Pam Moonthianngam! 👋 
 
 
-## About me
+## About me [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pathompon/)
 I am an aspiring data analyst with a background in healthcare, specifically in clinical trials and pharmacy
-
-
-## 🔗 Check me out on LinkedIn
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pathompon/)
 
 
 # Project 1: [Excel Dynamic Dashboard](https://github.com/pammoon14/500-Cities-Project)
@@ -18,7 +13,7 @@ This project creates an interactive Excel dashboard to visualize and analyze key
 ### Highlighted Skills
 **Excel:** data visualization, dashboard design, Pivot Table/Chart, VLOOKUP, XLOOKUP, LARGE
 
-**PowerQuery:** data transformation, data cleaning, filtering
+**Power Query:** data transformation, data cleaning, filtering
 
 
 ## Data Source
