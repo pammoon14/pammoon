@@ -1,34 +1,31 @@
-## Portfolio
+# Portfolio
 
 ---
-
-# Projects
 
 ## Project 1: [Excel Dynamic Dashboard](https://github.com/pammoon14/500-Cities-Project)
+### Highlighted Skills
+**Excel:** data visualization, dashboard design, Pivot Table/Chart, VLOOKUP, XLOOKUP, LARGE
+
+**PowerQuery:** data transformation, data cleaning, filtering
+
+### Results [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/pammoon14/500-Cities-Project)
 ![](https://github.com/pammoon14/500-Cities-Project/blob/main/image/Screenshot_500_Cities_Project_Dashboard.png)
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+**PowerQuery:** data transformation, data cleaning, filtering
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+# Project 2: [Rendering 3D Map using Rayshader Package in R](https://github.com/pammoon14/Texas3D)
 
----
+### Highlighted Skills
+**Power Query:** data cleaning, sorting, & filtering
 
-### Category Name 2
+**R:** left join using pipes, creating 2D and 3D maps, and rendering video
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+*(R Packages: dplyr, ggplot2, Rayshader, sf, rgl, rv, tidyverse)*   
 
----
+## Result
 
+![](https://github.com/pammoon14/Texas3D/blob/main/image/3D_labeled_screenshot_uninsured_map.png)
 
+![](https://github.com/pammoon14/Texas3D/blob/main/video/GIF_Texas3D_video1.gif)
 
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
