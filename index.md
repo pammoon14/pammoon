@@ -10,7 +10,7 @@
 
 ### Results [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/pammoon14/500-Cities-Project)
 <center><img src="/images/Screenshot_500_Cities_Project_Dashboard.png"/></center>
-<img src = "https://github.com/pammoon14/portfolio/blob/main/images/Screenshot_500_Cities_Project_Dashboard.png">
+
 ---
 
 
