@@ -1,57 +1,51 @@
+## Developer Portfolio Landing Page Template
 
-# Hi, I'm Pam Moonthianngam! 👋 
+### Introduction
 
+Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
 
-## About me [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pathompon/)
-I am an aspiring data analyst with a background in healthcare, specifically in clinical trials and pharmacy
+<img src="images/demo.gif?raw=true"/>
 
+### Installation
 
-# Project 1: [Excel Dynamic Dashboard](https://github.com/pammoon14/500-Cities-Project)
-## Description
-This project creates an interactive Excel dashboard to visualize and analyze key outcomes of the 2020 local health data from the CDC PLACES 500 Cities Project. This dashboard allows for state and national comparisons of 29 health indicators, including areas in chronic diseases, health risk behaviors, health status, and prevention. 
+See full step by step tutorial [on Medium](https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd).
+___
 
-### Highlighted Skills
-**Excel:** data visualization, dashboard design, Pivot Table/Chart, VLOOKUP, XLOOKUP, LARGE
+You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
 
-**Power Query:** data transformation, data cleaning, filtering
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+### Markdown
 
-## Data Source
-PLACES: Local Data for Better Health, [County Data 2022 release](https://chronicdata.cdc.gov/500-Cities-Places/PLACES-Local-Data-for-Better-Health-County-Data-20/swc5-untb)
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-## Results [![Github View](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/pammoon14/500-Cities-Project)
-![](https://github.com/pammoon14/500-Cities-Project/blob/main/image/Screenshot_500_Cities_Project_Dashboard.png)
+```markdown
+Syntax highlighted code block
 
+# Header 1
+## Header 2
+### Header 3
 
+- Bulleted
+- List
 
+1. Numbered
+2. List
 
-# Project 2: [Rendering 3D Map using Rayshader Package in R](https://github.com/pammoon14/Texas3D)
+**Bold** and _Italic_ and `Code` text
 
-## Description
-This project is an extension of Project 1. Project 2 creates a 3D Map, visualizing the percentage of uninsured people in Texas by county (2020), using data from the CDC's PLACES 500 Cities Project. The 3D visualization allows for an immersive and dynamic way to explore and understand population density data. 
+[Link](url) and ![Image](src)
+```
 
-### Highlighted Skills
-**Power Query:** data cleaning, sorting, & filtering
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-**R:** left join data frames using pipes, creating 2D and 3D maps, and rendering videos
+### Roadmap
 
-*(R Packages: dplyr, ggplot2, Rayshader, sf, rgl, rv, colospace, tidyverse)*   
+See the [open issues](https://github.com/evanca/quick-portfolio/issues) for a list of proposed features (and known issues).
+___
 
-## Data Source
-**Texas data:** PLACES Local Data for Better Health, [County Data 2022 release](https://chronicdata.cdc.gov/500-Cities-Places/PLACES-Local-Data-for-Better-Health-County-Data-20/swc5-untb)
+### References
 
-**Code Snippets:** The project was completed using the rayshader R package by [@tylermorganwall](https://twitter.com/tylermorganwall). Special thanks to [Spencer Schien](https://github.com/Pecners), [cyda](https://github.com/cydalytics/HK_Properties_Price_Distribution), and [@researchremora](https://twitter.com/search?lang=en&q=%23rayshader) for the tutorials and inspirations. Code snippets for rendering videos are credited to [cyda](https://github.com/cydalytics/HK_Properties_Price_Distribution/blob/master/README.md).
-
-
-## Result [![Github View](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)]([https://github.com/pammoon14/Texas3D])
-
-
-![](https://github.com/pammoon14/Texas3D/blob/main/image/3D_labeled_screenshot_uninsured_map.png)
-
-![](https://github.com/pammoon14/Texas3D/blob/main/video/GIF_Texas3D_video1.gif)
-
-
-
-
-
-
+[1] Jekyll theme "Minimal" for GitHub Pages: https://github.com/pages-themes/minimal (CC0 1.0 Universal License)
+<br>[2] Dummy photo via: https://pixabay.com/photos/man-male-adult-person-caucasian-1209494/ (Pixabay License)
+<br>[3] Dummy thumbnail image created by rawpixel.com: https://www.freepik.com/free-vector/set-elements-infographic_2807573.htm (Standard Freepik License)
