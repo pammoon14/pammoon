@@ -9,7 +9,7 @@
 **PowerQuery:** data transformation, data cleaning, filtering
 
 ### Results [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/pammoon14/500-Cities-Project)
-![](https://github.com/pammoon14/500-Cities-Project/blob/main/image/Screenshot_500_Cities_Project_Dashboard.png)
+<center><img src="/images/Screenshot_500_Cities_Project_Dashboard.png"/></center>
 
 ---
 
@@ -24,9 +24,9 @@
 *(R Packages: dplyr, ggplot2, Rayshader, sf, rgl, rv, tidyverse)*   
 
 ### Result [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/pammoon14/Texas3D)
+<center><img src="/images/3D_labeled_screenshot_uninsured_map.png"/></center>
 
-![](https://github.com/pammoon14/Texas3D/blob/main/image/3D_labeled_screenshot_uninsured_map.png)
+<center><img src="/images/GIF_Texas3D_video1.gif"/></center>
 
-![](https://github.com/pammoon14/Texas3D/blob/main/video/GIF_Texas3D_video1.gif)
 
 ---
