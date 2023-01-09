@@ -14,7 +14,7 @@
 **PowerQuery:** data transformation, data cleaning, filtering
 
 ---
-# Project 2: [Rendering 3D Map using Rayshader Package in R](https://github.com/pammoon14/Texas3D)
+## Project 2: [Rendering 3D Map using Rayshader Package in R](https://github.com/pammoon14/Texas3D)
 
 ### Highlighted Skills
 **Power Query:** data cleaning, sorting, & filtering
@@ -23,7 +23,7 @@
 
 *(R Packages: dplyr, ggplot2, Rayshader, sf, rgl, rv, tidyverse)*   
 
-## Result
+### Result
 
 ![](https://github.com/pammoon14/Texas3D/blob/main/image/3D_labeled_screenshot_uninsured_map.png)
 
