@@ -1,4 +1,8 @@
-url: 'https://pammoon14.github.io/portfolio' # your main domain
+domain: pammoon14.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+url: https://pammoon14.github.io  # the base hostname and protocol for your site, e.g. http://example.com
+baseurl: /PORTFOLIO/      # place folder name if the site is served in a subfolder
+
+
 title: <center>Pathompon(Pam) Moon.<center>
 logo: "/images/picture.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
