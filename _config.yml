@@ -1,7 +1,8 @@
 title: Pathompon Moon. (Pam) # your name (or website title) here
 logo: "https://github.com/pammoon14/pammoon14/blob/main/image/20220523_175413_cropped0.png" # your photo (or logo) here
+<br><br>
 description: > # your text below (remove <br> elements if you don't need line breaks)
- <h3>About Me 3</h3>
+ <h2>About Me 2</h2>
   <p>I am an aspiring data analyst with a background in healthcare, specifically in clinical trials and pharmacy.<p>
   
 theme: jekyll-theme-minimal
