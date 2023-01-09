@@ -1,6 +1,6 @@
 title: <p align="center"> Pathompon Moon. (Pam) </p> # your name (or website title) here
 
-logo:  ![Logo Jekyll]({{"/image/logo.png"| absolute_url}})
+logo:  ![Logo Jekyll]({{"/main/image/logo.png"| absolute_url}})
 
 <br><br>
 description: > # your text below (remove <br> elements if you don't need line breaks)
