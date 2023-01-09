@@ -29,7 +29,8 @@
 
 <center><img src="images/3D_labeled_screenshot_uninsured_map.png"/></center>
 
-<center><img src="images/GIF_Texas3D_video1.gif" width='400' height='400'/></center>
+<center><img src="images/GIF_Texas3D_video1.gif" width='350' height='350'/></center>
+
 
 
 ---
