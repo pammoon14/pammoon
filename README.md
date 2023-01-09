@@ -43,7 +43,8 @@ This project is an extension of Project 1. Project 2 creates a 3D Map, visualizi
 **Code Snippets:** The project was completed using the rayshader R package by [@tylermorganwall](https://twitter.com/tylermorganwall). Special thanks to [Spencer Schien](https://github.com/Pecners), [cyda](https://github.com/cydalytics/HK_Properties_Price_Distribution), and [@researchremora](https://twitter.com/search?lang=en&q=%23rayshader) for the tutorials and inspirations. Code snippets for rendering videos are credited to [cyda](https://github.com/cydalytics/HK_Properties_Price_Distribution/blob/master/README.md).
 
 
-## Result [![Github View](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/pammoon14/500-Cities-Project)
+## Result [![Github View](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)]([https://github.com/pammoon14/Texas3D])
+
 
 ![](https://github.com/pammoon14/Texas3D/blob/main/image/3D_labeled_screenshot_uninsured_map.png)
 
