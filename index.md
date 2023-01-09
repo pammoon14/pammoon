@@ -28,7 +28,7 @@
 
 ![](https://github.com/pammoon14/portfolio/blob/main/images/3D_labeled_screenshot_uninsured_map.png)
 
-<center><img src="/images/GIF_Texas3D_video1.gif"/></center>
+<center><img src="images/GIF_Texas3D_video1.gif"/></center>
 
 
 ---
