@@ -11,9 +11,9 @@
 ### Results [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/pammoon14/500-Cities-Project)
 ![](https://github.com/pammoon14/500-Cities-Project/blob/main/image/Screenshot_500_Cities_Project_Dashboard.png)
 
-**PowerQuery:** data transformation, data cleaning, filtering
-
 ---
+
+
 ## Project 2: [Rendering 3D Map using Rayshader Package in R](https://github.com/pammoon14/Texas3D)
 
 ### Highlighted Skills
@@ -29,3 +29,4 @@
 
 ![](https://github.com/pammoon14/Texas3D/blob/main/video/GIF_Texas3D_video1.gif)
 
+---
