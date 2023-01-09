@@ -12,6 +12,7 @@
 
 <center><img src="images/Screenshot_500_Cities_Project_Dashboard.png"/></center>
 
+
 ---
 
 
