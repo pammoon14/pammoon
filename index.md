@@ -1,4 +1,4 @@
-<img src="images/logo1.png"/>
+
 
 # Portfolio
 
