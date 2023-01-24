@@ -37,7 +37,7 @@
 
 ---
 
-## [Project 3: Maven Analytics SQL Projects](https://github.com/pammoon14/maven_analytics_SQL_projects)
+## Project 3: [Maven Analytics SQL Projects](https://github.com/pammoon14/maven_analytics_SQL_projects)
 
 ### **Highlighted Skills**
 
