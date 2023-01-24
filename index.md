@@ -48,7 +48,7 @@
 4. Combine data from multiple tables, including JOIN types, UNION
 
 ### Results [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/pammoon14/maven_analytics_SQL_projects)
-![](https://github.com/pammoon14/maven_analytics_SQL_projects/blob/main/images/SQL_midcourse_project_result.png)
+<center><img src="images/SQL_midcourse_project_result1.png"/></center>
 
 
 ---
