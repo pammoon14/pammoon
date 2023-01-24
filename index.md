@@ -44,7 +44,7 @@
 **MySQL:** 
 1. "Big 6" SQL statements and clauses: SELECT, FROM, WHERE, GROUP BY, HAVING, and ORDER BY.
 2. Aggregrate functions, including COUNT, SUM, MAX, AVG, and COUNT DISTINCT
-3. CASE WHEN statments
+3. CASE statements
 4. Combine data from multiple tables, including JOIN types, UNION
 
 ### Results [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/pammoon14/maven_analytics_SQL_projects)
