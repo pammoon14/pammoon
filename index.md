@@ -39,7 +39,7 @@
 
 ## [Project 3: Maven Analytics SQL Projects](https://github.com/pammoon14/maven_analytics_SQL_projects)
 
-###**Highlighted Skills**
+### **Highlighted Skills**
 
 **MySQL:** 
 1. "Big 6" SQL statements and clauses: SELECT, FROM, WHERE, GROUP BY, HAVING, and ORDER BY.
